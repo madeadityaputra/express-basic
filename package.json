@@ -1,0 +1,16 @@
+{
+	"name": "first-express",
+	"version": "1.0.0",
+	"description": "Belajar Express ",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Made Aditya Putra",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
